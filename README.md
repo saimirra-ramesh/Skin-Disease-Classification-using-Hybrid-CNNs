@@ -7,7 +7,7 @@
 
 ## **Important Note**  
 The augmented dataset provided in this project contains only the first 500 images. The rest of the dataset and related details can be accessed using the following links:  
-- [Kaggle Notebook](https://drive.google.com/file/d/1nYuTSkGg2wG-HzIZPNTtkHOBaqvIFglt/view?usp=sharing)  
+- [Link to View Augmented Dataset](https://drive.google.com/file/d/1nYuTSkGg2wG-HzIZPNTtkHOBaqvIFglt/view?usp=sharing)  
 - [Dataset Link](https://www.kaggle.com/datasets/subirbiswas19/skin-disease-dataset)  
 
 For a complete understanding of our project workflow, please watch our **video demonstration**:  
