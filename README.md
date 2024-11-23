@@ -19,7 +19,7 @@ The augmented dataset provided in this project contains only the first 500 image
 
 
 For a complete understanding of our project workflow, please watch our *video demonstration*:  
-- [Video Demonstration Link](#https://drive.google.com/file/d/1eS3eioIGB-xtX1EGVe6HSOtukupV3zP0/view?usp=sharing)  
+- [Video Demonstration Link](https://drive.google.com/file/d/1eS3eioIGB-xtX1EGVe6HSOtukupV3zP0/view?usp=sharing)  
 
 ---
 
@@ -34,12 +34,12 @@ Skin diseases can often be identified by visual patterns, and deep learning offe
 - Use of *Four Pre-trained Models*: DenseNet121, InceptionV3, VGG16, and MobileNetV2.  
 - Development of a *Hybrid Model* combining DenseNet121 and InceptionV3.  
 - *Feature Map Visualization* to gain insights into feature extraction.  
-- *Comprehensive Dataset: Includes **8 classes of skin infections* categorized into bacterial, fungal, parasitic, and viral infections:  
-  -*Bacterial Infections*: cellulitis, impetigo  
-  -*Fungal Infections*: athlete’s foot, nail fungus, ringworm  
-  -*Parasitic Infections*: cutaneous larva migrans  
-  -*Viral Infections*: chickenpox, shingles  
----
+- **Comprehensive Dataset**:  
+  - Includes **8 classes of skin infections** categorized into bacterial, fungal, parasitic, and viral infections:  
+    - **Bacterial Infections**: cellulitis, impetigo  
+    - **Fungal Infections**: athlete’s foot, nail fungus, ringworm  
+    - **Parasitic Infections**: cutaneous larva migrans  
+    - **Viral Infections**: chickenpox, shingles  
 
 ## *Contents*  
 1. [Data Augmentation and Preprocessing](#1-data-augmentation-and-preprocessing)  
